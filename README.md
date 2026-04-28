@@ -10,7 +10,7 @@ Full-stack developer. Interested in building things that work.
 Currently building: **AkademVault** — a student-focused platform
 
 ## Projects
-- **AlterNet** — personal site, rebranding of Alternative Sanctum
+- [Alternative Sanctum](https://alternative-sanctum.vercel.app/)
 - [V-Fridge](https://v-fridge.vercel.app/)
 - [WizAllet](https://wizallet.netlify.app)
 
