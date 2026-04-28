@@ -17,7 +17,7 @@ Currently building: **AkademVault** — a student-focused platform
 ## What's next
 - Bring AkademVault to a working state
 - Occasional updates and new features for V-Fridge
-- Rebrand Alternative Sanctum → Alter Enclave (coming 30.06)
+- Rebrand Alternative Sanctum → AlterNet
 - Further ahead: CRM, C2C projects and more
 
 ## Links
