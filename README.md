@@ -21,7 +21,7 @@ Currently building: **AkademVault** — a student-focused platform
 - Further ahead: CRM, C2C projects and more
 
 ## Links
-- Telegram: t.me/AlterEnclave
+- Telegram: t.me/AlterN3t
 
 
 
