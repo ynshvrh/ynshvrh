@@ -4,7 +4,7 @@ Full-stack developer. Interested in building things that work.
 
 **Primary stack:** TypeScript — React, Node.js, Next.js, PostgreSQL  
 **Secondary stack:** Angular, C#, ASP.NET  
-**Familiar with:** Python  
+**Familiar with:** Python, PHP
 **Also:** Go · Rust (when it makes sense)
 
 Currently building: **AkademVault** — a student-focused platform
