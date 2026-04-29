@@ -1,11 +1,11 @@
 # Jano
 
-Full-stack developer. Interested in building things that work.
+Full-stack developer focused on practical web apps.
 
-**Primary stack:** TypeScript — React, Node.js, Next.js, PostgreSQL  
-**Secondary stack:** Angular, C#, ASP.NET  
-**Familiar with:** Python, PHP    
-**Also:** Go · Rust (when it makes sense)
+**Primary stack:** TypeScript  ·  React ·  Node.js ·  Next.js ·  PostgreSQL  
+**Secondary stack:** Angular ·  C# ·  ASP.NET  
+**Familiar with:** Python · PHP    
+**Exploring:** Go · Rust 
 
 Currently building: **AkademVault** — a student-focused platform
 
