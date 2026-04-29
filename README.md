@@ -6,7 +6,7 @@ Full-stack developer focused on practical web apps.
 **Front-end:** React(Next.js) · Angular   
 **Familiar with:** Python · PHP    
 **Exploring:** Go · Rust   
-**DB:** PostgreSQL · MySQL · MongoDB 
+**DB:** PostgreSQL · MongoDB 
 
 Currently building: **AkademVault** — a student-focused platform
 
