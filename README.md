@@ -18,7 +18,7 @@ Currently building: **AkademVault** — a student-focused platform
 - Bring AkademVault to a working state
 - Occasional updates and new features for V-Fridge
 - Rebrand Alternative Sanctum → AlterNet
-- Further ahead: CRM, C2C projects and more
+- Planning to build: CRM system and C2C platform
 
 ## Links
 - Telegram: t.me/AlterN3t
