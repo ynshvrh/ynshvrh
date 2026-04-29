@@ -2,10 +2,11 @@
 
 Full-stack developer focused on practical web apps.
 
-**Primary stack:** TypeScript  ·  React ·  Node.js ·  Next.js ·  PostgreSQL  
-**Secondary stack:** Angular ·  C# ·  ASP.NET  
+**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)        
+**Front-end:** React(Next.js) · Angular   
 **Familiar with:** Python · PHP    
-**Exploring:** Go · Rust 
+**Exploring:** Go · Rust   
+**DB:** PostgreSQL · MySQL · MongoDB 
 
 Currently building: **AkademVault** — a student-focused platform
 
