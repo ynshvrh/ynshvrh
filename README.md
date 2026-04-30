@@ -2,11 +2,11 @@
 
 Full-stack developer focused on practical web apps.
 
-**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)        
-**Front-end:** React(Next.js) · Angular   
-**Familiar with:** Python · PHP    
-**Exploring:** Go · Rust   
-**DB:** PostgreSQL · MongoDB 
+**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)          
+**Front-end:** React(Next.js) · Angular     
+**Additional experience:** Python · PHP · Java · C++     
+**Exploring:** Go · Rust    
+**DB:** PostgreSQL · MongoDB · SQLite  
 
 Currently building: **AkademVault** — a student-focused platform
 
@@ -26,17 +26,4 @@ Currently building: **AkademVault** — a student-focused platform
 
 
 
-<!--
-**ynshvrh/ynshvrh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
