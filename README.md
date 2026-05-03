@@ -4,7 +4,7 @@ Full-stack developer focused on practical web apps.
 
 **Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)          
 **Front-end:** React(Next.js) · Angular     
-**Additional experience:** Python · PHP · Java · C++     
+**Occasional use:** Python    
 **Exploring:** Go · Rust    
 **DB:** PostgreSQL · MongoDB · SQLite  
 
