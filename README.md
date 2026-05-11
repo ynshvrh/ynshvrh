@@ -21,8 +21,6 @@ Currently building: **AkademVault** — a student-focused platform
 - Rebrand Alternative Sanctum → AlterNet
 - Planning to build: CRM system and C2C platform
 
-## Links
-- Telegram: t.me/AlterN3t
 
 
 
