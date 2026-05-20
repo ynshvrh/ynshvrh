@@ -9,14 +9,12 @@ Full-stack developer focused on practical web apps.
 
 
 ## Projects
-- [ynshvrh-site](https://ynshvrh.pages.dev)
+- [ynshvrh](https://ynshvrh.pages.dev)
 - [V-Fridge](https://v-fridge.vercel.app)
-- [WizAllet](https://wizallet.netlify.app)
 - [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
 - Refresh V-Fridge with new features
-- Personal bots & automation tools
 - Build PearBaz — a C2C platform
 
 
