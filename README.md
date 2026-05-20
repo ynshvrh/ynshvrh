@@ -2,9 +2,9 @@
 
 Full-stack developer focused on practical web apps.
 
-**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)          
+**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET) · Go       
 **Front-end:** React(Next.js) · Angular       
-**Exploring:** Go · Rust · Dart(Flutter)
+**Exploring:** Rust 
 **DB:** PostgreSQL · MongoDB · SQLite  
 
 Currently building: **AkademVault** — a student-focused platform
@@ -16,11 +16,10 @@ Currently building: **AkademVault** — a student-focused platform
 - [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
-- Occasional updates and new features for V-Fridge
-- Rebrand Alternative Sanctum → AlterNet
-- Planning to build: CRM system and C2C platform
 
-
+- Refresh V-Fridge with new features
+- Build PearBaz — a C2C platform
+- Personal bots & automation tools
 
 
 
