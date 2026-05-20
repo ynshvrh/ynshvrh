@@ -4,7 +4,7 @@ Full-stack developer focused on practical web apps.
 
 **Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)          
 **Front-end:** React(Next.js) · Angular       
-**Exploring:** Go · Rust    
+**Exploring:** Go · Rust · Dart(Flutter)
 **DB:** PostgreSQL · MongoDB · SQLite  
 
 Currently building: **AkademVault** — a student-focused platform
@@ -13,7 +13,7 @@ Currently building: **AkademVault** — a student-focused platform
 - [Alternative Sanctum](https://alternative-sanctum.vercel.app/)
 - [V-Fridge](https://v-fridge.vercel.app/)
 - [WizAllet](https://wizallet.netlify.app)
-  
+- [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
 - Occasional updates and new features for V-Fridge
