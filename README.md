@@ -10,16 +10,14 @@ Full-stack developer focused on practical web apps.
 Currently building: **AkademVault** — a student-focused platform
 
 ## Projects
-- [Alternative Sanctum](https://alternative-sanctum.vercel.app/)
-- [V-Fridge](https://v-fridge.vercel.app/)
+- [ynshvrh-site](https://ynshvrh.pages.dev)
+- [V-Fridge](https://v-fridge.vercel.app)
 - [WizAllet](https://wizallet.netlify.app)
 - [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
-
 - Refresh V-Fridge with new features
-- Build PearBaz — a C2C platform
 - Personal bots & automation tools
-
+- Build PearBaz — a C2C platform
 
 
