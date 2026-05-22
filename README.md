@@ -3,7 +3,8 @@
 Full-stack developer focused on practical web apps.
 
 **Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)        
-**Front-end:** React(Next.js) · Angular       
+**Front-end:** React(Next.js) · Angular         
+**Mobile:** Dart(Flutter)          
 **Exploring:** Go · Rust   
 **DB:** PostgreSQL · MongoDB · SQLite  
 
@@ -14,7 +15,7 @@ Full-stack developer focused on practical web apps.
 - [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
-- Refresh V-Fridge with new features
+- Build a personal Telegram assistant
 - Build PearBaz — a C2C platform
 
 
