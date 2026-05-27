@@ -1,12 +1,11 @@
 # Jano
+Backend-oriented developer building full-stack products.
 
-Full-stack developer focused on practical web apps.
-
-**Back-end:** TypeScript(Node.js, NestJS) · C#(ASP.NET)        
-**Front-end:** React(Next.js) · Angular         
+**Back-end:** Go · TypeScript(Node.js, NestJS) · C#(ASP.NET)        
+**Front-end:** Vue.js · React(Next.js) · Angular         
 **Mobile:** Dart(Flutter)          
-**Exploring:** Go · Rust   
-**DB:** PostgreSQL · MongoDB · SQLite  
+**Exploring:** Rust   
+**DB:** PostgreSQL · MongoDB · SQLite
 
 
 ## Projects
@@ -15,7 +14,7 @@ Full-stack developer focused on practical web apps.
 - [AkademVault](https://akademvault.pages.dev)
 
 ## What's next
-- Build a personal Telegram assistant
-- Build PearBaz — a C2C platform
+- **#MAYHEM** *(in progress)* — personal AI assistant with Telegram bot, TUI, finance tracking and news digest
+- **PearBaz** *(planning)* — C2C marketplace
 
 
