@@ -1,4 +1,4 @@
-# Janos | Yanosh
+# Yanosh | Janos
 Backend-oriented developer building full-stack products.
 
 **Back-end:** Go · TypeScript(Node.js, NestJS) · C#(ASP.NET)        
