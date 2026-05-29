@@ -1,11 +1,11 @@
 # Yanosh | Janos
 Backend-oriented developer building full-stack products.
 
-**Back-end:** Go · TypeScript(Node.js, NestJS) · C#(ASP.NET)        
-**Front-end:** Vue.js · React(Next.js) · Angular         
-**Mobile:** Dart(Flutter)          
-**Exploring:** Rust   
-**DB:** PostgreSQL · MongoDB · SQLite
+**Current:** Go · Vue.js       
+**Learning:** Rust               
+**Also:** TypeScript / Node · C# / .NET               
+**Mobile:** Dart(Flutter)                  
+**DB:** PostgreSQL · MongoDB · SQLite          
 
 
 ## Projects
