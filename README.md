@@ -1,5 +1,5 @@
 # Yanosh | Janos
-Backend-oriented developer building full-stack products.
+Backend-oriented engineer chasing depth over breadth.
 
 **Current:** Go · Vue.js       
 **Learning:** Rust               
