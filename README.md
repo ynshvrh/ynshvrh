@@ -1,5 +1,5 @@
 # Yanosh | Janos
-Backend-oriented engineer chasing depth over breadth.
+Backend-oriented engineer. Depth first, breadth when it matters.
 
 **Current:** Go · Vue.js       
 **Learning:** Rust               
