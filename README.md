@@ -1,9 +1,9 @@
 # Yanosh | Janos
 Backend-oriented engineer. Depth first, breadth when it matters.
 
+**Core:** TypeScript / Node · C# / .NET          
 **Current:** Go · Vue.js       
-**Learning:** Rust               
-**Also:** TypeScript / Node · C# / .NET               
+**Learning:** Rust                            
 **Mobile:** Dart(Flutter)                  
 **DB:** PostgreSQL · MongoDB · SQLite          
 
