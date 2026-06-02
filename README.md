@@ -1,10 +1,9 @@
 # Yanosh | Janos
 Backend-oriented engineer. Depth first, breadth when it matters.
 
-**Core:** TypeScript / Node · C# / .NET          
-**Current:** Go · Vue.js       
-**Learning:** Rust                            
-**Mobile:** Dart(Flutter)                  
+**Core:** Go · C# / .NET          
+**Learning:** Rust                 
+**UI:** Vue.js + Dart(Flutter)                                             
 **DB:** PostgreSQL · MongoDB · SQLite          
 
 
@@ -16,6 +15,5 @@ Backend-oriented engineer. Depth first, breadth when it matters.
 
 ## What's next
 - **#MAYHEM** *(in progress)* — personal AI assistant with Telegram bot, TUI, finance tracking and news digest
-- **PearBaz** *(planning)* — C2C marketplace
 
 
