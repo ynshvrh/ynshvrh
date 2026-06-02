@@ -8,7 +8,6 @@ Backend Engineer. Depth first, breadth when it matters.
 
 
 ## Projects
-- [ynshvrh](https://ynshvrh.pages.dev)
 - [V-Fridge](https://v-fridge.vercel.app)
 - [AkademVault](https://akademvault.pages.dev)
 - [WizAllet](https://wizallet.netlify.app)
