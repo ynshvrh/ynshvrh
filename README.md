@@ -1,5 +1,5 @@
 # Yanosh | Janos
-Backend Engineer. Depth first, breadth when it matters.
+Backend Engineer. 
 
 **Core:** Ts · C# · Go          
 **Learning:** Rust                 
