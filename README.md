@@ -1,7 +1,7 @@
 # Yanosh | Janos
 Backend Engineer. Depth first, breadth when it matters.
 
-**Core:** Go · C# / .NET          
+**Core:** Ts · C# · Go          
 **Learning:** Rust                 
 **UI:** Vue.js + Dart(Flutter)                                             
 **DB:** PostgreSQL · MongoDB · SQLite          
