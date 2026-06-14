@@ -12,7 +12,3 @@ Backend Engineer.
 - [AkademVault](https://akademvault.pages.dev)
 - [WizAllet](https://wizallet.netlify.app)
 
-## What's next
-- **#MAYHEM** *(in progress)* — personal AI assistant with Telegram bot, TUI, finance tracking and news digest
-
-
