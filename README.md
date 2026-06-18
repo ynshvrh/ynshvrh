@@ -1,10 +1,9 @@
 # Yanosh 
-Backend Engineer. 
+Software Engineer. 
 
-**Backend:** C#           
-**Learning for myself:** Rust                 
-**UI:** Angular + Dart(Flutter)              
-**Also know:** Go                                                          
+**At work:** Go · Vue          
+**Shipping:** C# / .NET · Angular · Flutter             
+**Learning for myself:** Rust                                                                                
 **DB:** PostgreSQL · MongoDB · SQLite          
 
 
