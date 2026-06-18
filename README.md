@@ -1,9 +1,10 @@
-# Yanosh | Janos
+# Yanosh 
 Backend Engineer. 
 
-**Backend:** C# · Go          
-**Learning:** Rust                 
-**UI:** Vue.js + Dart(Flutter)                                             
+**Backend:** C#           
+**Learning for myself:** Rust                 
+**UI:** Angular + Dart(Flutter) 
+**Also know:** Go                                                          
 **DB:** PostgreSQL · MongoDB · SQLite          
 
 
