@@ -3,7 +3,7 @@ Backend Engineer.
 
 **Backend:** C#           
 **Learning for myself:** Rust                 
-**UI:** Angular + Dart(Flutter) 
+**UI:** Angular + Dart(Flutter)              
 **Also know:** Go                                                          
 **DB:** PostgreSQL · MongoDB · SQLite          
 
