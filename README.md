@@ -1,8 +1,9 @@
 # Yanosh 
 Software Engineer. 
 
-**Core:** C# / .NET · Angular · Flutter          
-**Also:** Go · Vue             
+**Back-End:** C# / .NET · Go                  
+**Front-End:** Angular · Vue      
+**Mobile:** Flutter                   
 **Learning for myself:** Rust                                                                                
 **DB:** PostgreSQL · MongoDB · SQLite          
 
