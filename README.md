@@ -1,5 +1,5 @@
-# Yanosh 
-Software Engineer. 
+# Hi, I'm Yanosh 👋
+### Software Engineer. 
 
 **Back-End:** C# / .NET · Go                  
 **Front-End:** Angular · Vue      
