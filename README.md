@@ -1,8 +1,8 @@
 # Hi, I'm Yanosh 👋
 ### Software Engineer. 
 
-**Back-End:** C# / .NET · Go                  
-**Front-End:** Angular · Vue      
+**Back-End:** Go · C# / .NET                                    
+**Front-End:** Vue · Angular      
 **Mobile:** Flutter                   
 **Learning for myself:** Rust                                                                                
 **DB:** PostgreSQL · MongoDB · SQLite          
