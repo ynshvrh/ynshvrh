@@ -2,9 +2,7 @@
 ### Software Engineer. 
 
 **Back-End:** Go · C# / .NET                                    
-**Front-End:** Vue · Angular      
-**Mobile:** Flutter                   
-**Learning for myself:** Rust                                                                                
+**Front-End:** Vue · Angular                                                                                                      
 **DB:** PostgreSQL · MongoDB · SQLite          
 
 
