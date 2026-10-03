@@ -2,7 +2,7 @@
 
 ## Backend developer. Go, C#.
 
-REST APIs, payment and subscription systems, side projects.
+Backend services, REST APIs, real-time features and full-stack side projects.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ynshvrh-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ynshvrh)
 [![Email](https://img.shields.io/badge/Email-varga.yanosh.05%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:varga.yanosh.05@gmail.com)
