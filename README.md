@@ -1,9 +1,8 @@
-
 # ![](https://api.iconify.design/mdi:hand-wave-outline.svg?color=%23F5A623) Hi, I'm Yanosh
 
 ## Backend Developer · Go
 
-I build backend services, REST APIs and practical software products. My primary focus is Go, with additional experience in C#/.NET and full-stack development.
+I build backend services, REST APIs and practical software products. My primary focus is Go, with full-stack experience in TypeScript and Vue.js.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@ynshvrh-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ynshvrh)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ynshvrh@gmail.com)
@@ -16,15 +15,22 @@ I build backend services, REST APIs and practical software products. My primary 
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**Backend & Web**
+**Learning**
+
+![C++](https://img.shields.io/badge/C++-in_progress-555555?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-bonus-8a8a8a?style=flat&logo=rust&logoColor=white)
+
+**Backend**
 
 ![Chi](https://img.shields.io/badge/Chi-000000?style=flat)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=gin&logoColor=white)
+
+**Frontend**
+
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Databases**
 
@@ -51,14 +57,6 @@ A food inventory management application for tracking expiration dates, discoveri
 A student group platform developed as a diploma project, featuring messaging, file storage, planning and scheduling.
 
 `C#` `ASP.NET Core` `Angular` `PostgreSQL` `SignalR` `GraphQL`
-
----
-
-## ![](https://api.iconify.design/mdi:map-outline.svg?color=%236e7681) Future Plan
-
-- **C++** — Embedded Development
-- **Rust** — Systems Programming
-- **Kotlin** — Android Development
 
 ---
 
